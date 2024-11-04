@@ -75,4 +75,5 @@ rispostaSei = risultato
 /* SCRIVI QUI LA TUA RISPOSTA */
 let name1 = "john"
 let name2 = "John"
-rispostaSette = name1===name2
+rispostaSette = name1===name2 
+let rispostaSetteExtra = name1.toLowerCase() === name2.toLowerCase();
